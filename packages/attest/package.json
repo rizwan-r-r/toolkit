@@ -40,7 +40,7 @@
     "@types/jsonwebtoken": "^9.0.6",
     "jose": "^5.2.3",
     "nock": "^13.5.1",
-    "undici": "^5.28.4"
+    "undici": "^6.11.1"
   },
   "dependencies": {
     "@actions/core": "^1.10.1",
